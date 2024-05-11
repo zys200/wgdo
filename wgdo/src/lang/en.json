@@ -1,0 +1,92 @@
+{
+  "headernav": {
+    "search": "search",
+    "Aboutus": "About us",
+    "Conferenceactivity": "Conferenc Activity",
+    "Mediacenter": "Media center",
+    "Academicresearch": "Academic research",
+    "Public welfare project": "Public welfare project",
+    "International Green Award": "International Green Award",
+    "WGDO Green Research Institute": "WGDO Green Research Institute",
+    "Green leaf label": "Green leaf label"
+  },
+  "second": {
+    "zuzhidongtai": "Organizational dynamics",
+    "more": "See more",
+    "green": "Green design perspective",
+    "tomore": "See more"
+  },
+  "third": {
+    "dsc": "As a bridge between users and products, social sharing plays an important role in the development process of products",
+    "tomore": "See more",
+    "active": "Activity notice"
+  },
+  "four": {
+    "greendesign": "World Green Design Park",
+    "tomore": "Learn more"
+  },
+  "five": {
+    "pingpaixiangmu": "Brand project",
+    "dsc": "As a bridge between users and products, social sharing plays an important role in the development process of products",
+    "tomore": "See more",
+    "learnmore": "Learn more",
+    "greenprice": "International Award for Green Design",
+    "mingdan": "List of winners",
+    "seehistory": "View awards over the years"
+  },
+  "six": {
+    "huoban": "Business partner",
+    "dsc": "As a bridge between users and products, social sharing plays an important role in the development process of products"
+  },
+  "footer": {
+    "guanyuwomen": "About us",
+    "zuzhijieshao": "Organization introduction",
+    "zuzhijiagou": "Organizational structure",
+    "renwu": "Important person",
+    "lianxiwomen": "Contact us",
+    "huiyihuodong": "Conference activity",
+    "huodongyugao": "Activity notice",
+    "zhengzaijinxing": "Be in progress",
+    "lijiehuigu": "Review of past",
+    "meitizhongx": "Media center",
+    "zuzhidongtai": "Organizational dynamics",
+    "luntanship": "Forum video",
+    "xueshuyanjiu": "Academic research",
+    "lvsesheji": "Green design report",
+    "lvseshejiguoji": "International standard for green design",
+    "guojishiyanshi": "Green Design International Laboratory",
+    "gongxiangziyuan": "Shared resource",
+    "gonyixiangmu": "Public welfare project",
+    "lvyezhijia": "Green leaf House",
+    "lvsidai": "The Green Ribbon",
+    "guojilvjiang": "International Green Award",
+    "lvseshejidajiang": "International Award for Green Design",
+    "lvseshijidajiang": "Green Design International Contribution Award",
+    "lvyebiao": "Green leaf label",
+    "WGDOyanjiuyan": "WGDO Green Research Institute",
+    "zuzhijianjie": "Organization profile",
+    "fenzhituojian": "Branch development",
+    "pingpaifuwu": "Brand service",
+    "peixunjihua": "Green design training",
+    "lvsezhengce": "Green policy",
+    "dizhi": "Room 1601, Xingchuang Building, Daxing District, Beijing",
+    "jing": "Beijing ICP for 13011399-1"
+  },
+  "LearnMore": {
+    "learnmore": "Learn more"
+  },
+  "titlestyle": {
+    "fiveone": "2015 Green Design International Contribution Award winners",
+    "fivetwo": "Winner of the 2015 Green Design International Contribution Award",
+    "sixone": "Cooperation Case",
+    "sixtwo": "Organizational Structure",
+    "sixthree": "Corporate Member"
+  },
+  "login": {
+    "title": "Account password login",
+    "one": "Please enter your username",
+    "two": "Please enter password",
+    "three": "Please enter the verification code",
+    "autoLogin": "Automatic login"
+  }
+}

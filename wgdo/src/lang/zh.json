@@ -1,0 +1,92 @@
+{
+  "headernav": {
+    "search": "搜索",
+    "Aboutus": "关于我们",
+    "Conferenceactivity": "会议活动",
+    "Mediacenter": "媒体中心",
+    "Academicresearch": "学术研究",
+    "Public welfare project": "公益项目",
+    "International Green Award": "国际绿奖",
+    "WGDO Green Research Institute": "WGDO绿研院",
+    "Green leaf label": "绿叶标"
+  },
+  "second": {
+    "zuzhidongtai": "组织动态",
+    "more": "查看更多",
+    "green": "绿色设计观点",
+    "tomore": "查看更多"
+  },
+  "third": {
+    "dsc": "作为用户和产品之间的桥梁社交分享在产品的发展过程中扮演了重要的角色分享时机在不同的时机分析用",
+    "tomore": "查看更多",
+    "active": "活动预告"
+  },
+  "four": {
+    "greendesign": "世界绿色设计园",
+    "tomore": "了解详情"
+  },
+  "five": {
+    "pingpaixiangmu": "品牌项目",
+    "dsc": "作为用户和产品之间的桥梁社交分享在产品的发展过程中扮演了重要的角色分享时机在不同的时机分析用",
+    "tomore": "查看更多",
+    "learnmore": "了解详情",
+    "greenprice": "绿色设计国际大奖",
+    "mingdan": "获奖名单",
+    "seehistory": "查看历年获奖信息"
+  },
+  "six": {
+    "huoban": "合作伙伴",
+    "dsc": "作为用户和产品之间的桥梁社交分享在产品的发展过程中扮演了重要的角色分享时机在不同的时机分析用"
+  },
+  "footer": {
+    "guanyuwomen": "关于我们",
+    "zuzhijieshao": "组织介绍",
+    "zuzhijiagou": "组织架构",
+    "renwu": "重要人物",
+    "lianxiwomen": "联系我们",
+    "huiyihuodong": "会议活动",
+    "huodongyugao": "活动预告",
+    "zhengzaijinxing": "正在进行",
+    "lijiehuigu": "历届回顾",
+    "meitizhongx": "媒体中心",
+    "zuzhidongtai": "组织动态",
+    "luntanship": "论坛视频",
+    "xueshuyanjiu": "学术研究",
+    "lvsesheji": "绿色设计报告",
+    "lvseshejiguoji": "绿色设计国际标准",
+    "guojishiyanshi": "绿色设计国际实验室",
+    "gongxiangziyuan": "共享资源",
+    "gonyixiangmu": "公益项目",
+    "lvyezhijia": "绿叶之家",
+    "lvsidai": "绿丝带",
+    "guojilvjiang": "国际绿奖",
+    "lvseshejidajiang": "绿色设计国际大奖",
+    "lvseshijidajiang": "绿色设计国际贡献奖",
+    "lvyebiao": "绿叶标",
+    "WGDOyanjiuyan": "WGDO绿研院",
+    "zuzhijianjie": "机构简介",
+    "fenzhituojian": "分支拓建",
+    "pingpaifuwu": "品牌服务",
+    "peixunjihua": "绿色设计培训",
+    "lvsezhengce": "绿色政策",
+    "dizhi": "北京市大兴区兴创大厦1601室",
+    "jing": "京ICP备13011399号-1"
+  },
+  "LearnMore": {
+    "learnmore": "查看详情"
+  },
+  "titlestyle": {
+    "fiveone": "2015绿色设计国际贡献大奖获奖个人",
+    "fivetwo": "2015绿色设计国际贡献大奖获奖机构",
+    "sixone": "合作案例",
+    "sixtwo": "组织机构",
+    "sixthree": "企业会员"
+  },
+  "login": {
+    "title": "账号密码登录",
+    "one": "请输入用户名",
+    "two": "请输入密码",
+    "three": "请输入验证码",
+    "autoLogin": "自动登录"
+  }
+}
